@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<a href="http://google.com"> Google </a>
+<article>
+<h1>Article title</h1>
+<p> And some article content</p>
+</article>
+</body>
+</html>

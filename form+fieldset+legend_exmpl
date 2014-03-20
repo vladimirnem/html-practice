@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<form>
+  <fieldset>
+    <legend>INfo:</legend>
+    Name: <input type="text"><br>
+    Adress: <input type="text"><br>
+    Date of birth: <input type="text">
+  </fieldset>
+</form>
+</body>
+</html>

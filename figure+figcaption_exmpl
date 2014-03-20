@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<figure>
+		<img src="http://www.skullsunlimited.com/userfiles/image/category3_family_241_large.jpg" width='200' height='300'>
+		<figcaption>Fig1. - Its all yours my friends!) </figcaption></figure>
+</body>
+</html>

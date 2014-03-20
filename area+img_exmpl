@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<img src="http://besttabletfor.me/wp-content/uploads/2013/06/Android-Vs-iOS.jpg" width="500" height="315" alt="ApplevsAndroid" usemap="#war">
+	<map name="war">
+		<area shape="rect" coords="0,0,250,315" href="http://apple.com" alt="apple"></area>
+		<area shape="rect" coords="250,0,500,315" href="http://android.com" alt='android'></area>
+	</map>
+</body>
+</html>

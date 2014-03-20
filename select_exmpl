@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<select>
+		<option value='male'>Male</option>
+		<option value='fimale'>Fimale</option>
+		<option value='animal'>Animal</option>
+		<option value='transformers'>Transformers</option></select>
+</body>
+</html>

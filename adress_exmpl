@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<address>
+		Written by <a href="mailto:me@example.com">Vladimir N.</a><br>
+		Visit me on:<br>
+		GitHub.com<br>
+		Funny str 255, Omaha<br>
+		UA<br>
+	</address>
+</body>
+</html>

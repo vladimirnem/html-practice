@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<table>
+    <thead>
+      <tr>
+        <th>Month</th>
+        <th>Savingsss</th>
+      </tr>
+    </thead>
+  <tfoot>
+    <tr>
+      <th>I`m</th>
+      <th>RICH</th>
+    </tr>
+  </tfoot>
+    <tbody>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>none</td>
+  </tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<footer>
+		<p>Produced by <a href="mailto:me@me.me">Me</a></p>
+		<p>Posted by: Me</p>
+	</footer>
+</body>
+</html>

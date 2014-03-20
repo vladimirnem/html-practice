@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<!-- here we you hgroup to group all my h-tags in this header -->
+	<hgroup>
+	<h1>This is heading 1 - LEADER, BOSS</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6 - SLAVE</h6>
+</hgroup>
+</body>
+</html>

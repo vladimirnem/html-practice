@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<p>Log Name</p><input type="text"><br>
+	<p>P-word</p><input type="password"><br>
+</body>
+</html>

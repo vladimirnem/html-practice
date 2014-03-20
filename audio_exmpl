@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<audio controls>
+		<source src="huh.mp3" type="audio/mp3">
+
+		</audio>
+	</body>
+</html>

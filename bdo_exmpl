@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<ul>
+		<li>This text <bdo dir='rtl'>right now write</bdo></li></ul>
+</body>
+</html>

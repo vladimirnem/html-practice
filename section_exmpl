@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<section>
+  <h1>OS</h1>
+  <p>This is Our Section(OS) which included eny data</p>
+</section>
+</body>
+</html>

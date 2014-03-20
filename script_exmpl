@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<script>
+document.write("Hello World! I`m trying codding here")
+</script>
+</body>
+</html>

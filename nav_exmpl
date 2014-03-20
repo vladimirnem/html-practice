@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<nav>
+		<a href="http://apple.com">Apple</a> |
+		<a href="http://microsoft.com">Microsoft</a> |
+		<a href="http://sony.com">PlayStation</a> |
+		<a href="http://xbox.com">Xbox</a> |
+	</nav>
+</body>
+</html>

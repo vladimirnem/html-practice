@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+<input list="days">
+
+<datalist id="days">
+  <option value="sunday">
+  <option value="monday">
+  <option value="friday">
+  <option value="saturday">
+  <option value="wednsday">
+</datalist>
+</body>
+</html>

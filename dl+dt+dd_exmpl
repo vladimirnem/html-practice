@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+<dl>
+<dt>Sun</dt>
+<dd> sun is hottttt</dd>
+<dt>Mars</dt>
+<dd>Mars is cooooold</dd>
+</dl>
+</body>
+</html>

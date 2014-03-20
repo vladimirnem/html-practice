@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<p>Display <strong>yours</strong>:</p>
+	<meter value='0.6'></meter>
+</body>
+</html>

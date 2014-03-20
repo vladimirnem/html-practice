@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+<p>My name is <del>Muhamed</del> <ins>Vladimir</ins>!</p>
+</body>
+</html>

@@ -1,0 +1,10 @@
+	
+	<!DOCTYPE html>
+<html>
+<head>
+    <title>Example site</title>
+</head>
+<body>
+	<button type="button">Click It!</button>
+</body>
+</html>
